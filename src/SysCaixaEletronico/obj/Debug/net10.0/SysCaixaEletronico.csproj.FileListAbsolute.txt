@@ -1,0 +1,15 @@
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/bin/Debug/net10.0/SysCaixaEletronico
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/bin/Debug/net10.0/SysCaixaEletronico.deps.json
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/bin/Debug/net10.0/SysCaixaEletronico.runtimeconfig.json
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/bin/Debug/net10.0/SysCaixaEletronico.dll
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/bin/Debug/net10.0/SysCaixaEletronico.pdb
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/obj/Debug/net10.0/SysCaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/obj/Debug/net10.0/SysCaixaEletronico.AssemblyInfoInputs.cache
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/obj/Debug/net10.0/SysCaixaEletronico.AssemblyInfo.cs
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/obj/Debug/net10.0/SysCaixaEletronico.csproj.CoreCompileInputs.cache
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/obj/Debug/net10.0/SysCaixaEletronico.sourcelink.json
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/obj/Debug/net10.0/SysCaixaEletronico.dll
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/obj/Debug/net10.0/refint/SysCaixaEletronico.dll
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/obj/Debug/net10.0/SysCaixaEletronico.pdb
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/obj/Debug/net10.0/SysCaixaEletronico.genruntimeconfig.cache
+/home/cauepereira/projetos-nds/login-poo/src/SysCaixaEletronico/obj/Debug/net10.0/ref/SysCaixaEletronico.dll
