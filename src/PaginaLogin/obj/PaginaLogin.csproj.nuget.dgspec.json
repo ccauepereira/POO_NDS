@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/home/cauepereira/projetos-nds/login-poo/src/PaginaLogin/PaginaLogin.csproj": {}
+    "/home/vvankxs/RiderProjects/login-poo/src/PaginaLogin/PaginaLogin.csproj": {}
   },
   "projects": {
-    "/home/cauepereira/projetos-nds/login-poo/src/PaginaLogin/PaginaLogin.csproj": {
+    "/home/vvankxs/RiderProjects/login-poo/src/PaginaLogin/PaginaLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cauepereira/projetos-nds/login-poo/src/PaginaLogin/PaginaLogin.csproj",
+        "projectUniqueName": "/home/vvankxs/RiderProjects/login-poo/src/PaginaLogin/PaginaLogin.csproj",
         "projectName": "PaginaLogin",
-        "projectPath": "/home/cauepereira/projetos-nds/login-poo/src/PaginaLogin/PaginaLogin.csproj",
-        "packagesPath": "/home/cauepereira/.nuget/packages/",
-        "outputPath": "/home/cauepereira/projetos-nds/login-poo/src/PaginaLogin/obj/",
+        "projectPath": "/home/vvankxs/RiderProjects/login-poo/src/PaginaLogin/PaginaLogin.csproj",
+        "packagesPath": "/home/vvankxs/.nuget/packages/",
+        "outputPath": "/home/vvankxs/RiderProjects/login-poo/src/PaginaLogin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/cauepereira/.nuget/NuGet/NuGet.Config"
+          "/home/vvankxs/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.108/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/home/vvankxs/.dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
