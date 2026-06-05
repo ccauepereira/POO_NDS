@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/PaginaLogin/PaginaLogin.csproj" />
-    <Project Path="src/SysCaixaEletronico/SysCaixaEletronico.csproj" />
+    <Project Path="src/Login/Login.csproj" />
   </Folder>
+  <Project Path="PaginaLogin/PaginaLogin.csproj" />
+  <Project Path="SysCaixaEletronico/SysCaixaEletronico.csproj" />
 </Solution>
