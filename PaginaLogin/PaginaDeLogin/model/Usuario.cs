@@ -2,7 +2,7 @@ using System.Reflection.Metadata;
 
 namespace PaginaLogin.PaginaDeLogin.model;
 
-public class Usuario 
+public class Usuario
 {
     public string Nome { get; private set; }
     private string _senha;
@@ -12,7 +12,7 @@ public class Usuario
         this.Nome = nome;
         this._senha = senha;
     }
-    
+
     public bool SenhaCorreta(string senha)
     {
         if (senha == _senha)
@@ -24,5 +24,4 @@ public class Usuario
             return false;
         }
     }
-    
 }
